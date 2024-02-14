@@ -8,6 +8,8 @@ int a = 9;
     printf("%d\n", c);
     printf("%d\n", c << 1);
     
+    printf("Hell satan");
+    
     int gaffa = 0;
 return 0; }
 
